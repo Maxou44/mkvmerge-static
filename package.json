@@ -1,0 +1,22 @@
+{
+  "name": "mkvmerge-static",
+  "version": "1.0.0",
+  "description": "Static binaries for mkvmerge.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Maxou44/mkvmerge-static.git"
+  },
+  "keywords": [
+    "mkvmerge",
+	"static"
+  ],
+  "author": "Maxou44",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.11.0"
+  }
+}
